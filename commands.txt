@@ -10,3 +10,7 @@ make
 make test
 2. Запуск тестов:
 ./run_tests
+
+
+# Скачать изменения из ветки main с сервера GitHub
+git pull origin main
